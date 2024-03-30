@@ -1,10 +1,16 @@
-
+import Banner from "../../components/Banner/Banner"
+import MainGallery from "../../components/MainGallery/MainGallery"
+import Footer from "../../components/Footer/Footer"
 
 const Home = () => {
 
 
     return (
-        <h3>Home</h3>
+        <>
+        <Banner />
+        <MainGallery />
+        <Footer />
+        </>
     )
 }
 
