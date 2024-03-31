@@ -1,4 +1,4 @@
-
+import { NavLink } from "react-router-dom"
 
 const NavBar = () => {
 
@@ -10,17 +10,26 @@ const NavBar = () => {
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">
           <li>
+            <NavLink to="/" >Home</NavLink>
+          </li>
+          <li>
+            <NavLink to="/">🛒</NavLink>
+          </li>
+          <li>
             <details>
               <summary>
                 Parent
               </summary>
               <ul className="p-2 bg-base-100 rounded-t-none">
-                <li><a>Productos</a></li>
-                <li><a>Contacto</a></li>
+                <li>
+                  <NavLink to="contact">Productos</NavLink>
+                </li>
+                <li>
+                  <NavLink to="contact">Contacto</NavLink>
+                </li>
               </ul>
             </details>
           </li>
-          <li><a>🛒</a></li>
         </ul>
       </div>
     </div>
