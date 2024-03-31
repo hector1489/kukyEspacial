@@ -5,6 +5,7 @@ import Contact from './views/Contact/Contact'
 
 import './App.css'
 import Products from './views/Products/Products'
+import CartViews from './views/CartViews/CartViews'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="products" element={<Products />} />
+        <Route path="Cart" element={<CartViews />} />
         <Route path="contact" element={<Contact />} />
       </Routes>
     </BrowserRouter>
