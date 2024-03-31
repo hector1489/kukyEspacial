@@ -3,7 +3,7 @@
 const FormComponent = () => {
 
   return (
-    <>
+    <form className="m-2">
       <label className="input input-bordered flex items-center gap-2">
         Name
         <input type="text" className="grow" placeholder="Daisy" />
@@ -14,7 +14,7 @@ const FormComponent = () => {
       </label>
       <textarea className="textarea textarea-secondary" placeholder="Bio"></textarea>
 
-    </>
+    </form>
   )
 }
 
