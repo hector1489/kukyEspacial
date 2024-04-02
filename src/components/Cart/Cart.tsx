@@ -9,9 +9,9 @@ const Cart = () => {
         <thead>
           <tr>
             <th></th>
-            <th>Name</th>
-            <th>Job</th>
-            <th>Favorite Color</th>
+            <th>Nombre</th>
+            <th>Cantidad</th>
+            <th>Precio</th>
           </tr>
         </thead>
         <tbody>
@@ -38,6 +38,11 @@ const Cart = () => {
           </tr>
         </tbody>
       </table>
+      <div className="flex flex-auto justify-center gap-4">
+      <button className="btn btn-active btn-neutral">Retornar</button>
+      <button className="btn btn-warning">Borrar Lista</button>
+      <button className="btn btn-success">Ir a Pagar</button>
+      </div>
     </div>
   )
 }
