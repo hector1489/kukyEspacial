@@ -12,6 +12,7 @@ const Cart = () => {
             <th>Nombre</th>
             <th>Cantidad</th>
             <th>Precio</th>
+            <th>Totales</th>
           </tr>
         </thead>
         <tbody>
@@ -35,6 +36,9 @@ const Cart = () => {
             <td>Brice Swyre</td>
             <td>Tax Accountant</td>
             <td>Red</td>
+          </tr>
+          <tr>
+            <th>Total</th>
           </tr>
         </tbody>
       </table>
