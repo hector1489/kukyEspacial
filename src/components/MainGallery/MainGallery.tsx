@@ -25,7 +25,7 @@ const MainGallery = () => {
   return (
     <div className="flex flex-wrap justify-center gap-4 mt-4">
       {galleryData.map((item, index) => (
-        <div key={index} className="card w-96 bg-base-100 shadow-xl">
+        <div key={item.id} className="card w-96 bg-base-100 shadow-xl">
           <figure>
             <img src={item.urlImage} alt={item.title} className="w-full h-48 object-cover" />
           </figure>
