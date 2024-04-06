@@ -1,54 +1,45 @@
-
+import { useContext } from "react"
+import { AppContext } from "../../context/GlobalState"
+import IRecord from "../../interfaces/IRecord"
 
 const Cart = () => {
+  const contextValue = useContext(AppContext);
+
+  if (!contextValue) {
+    return null;
+  }
+
+  const { state } = contextValue;
+  const cartItems: Array<IRecord> = state.IsHero.filter(item => item.quantity > 0);
 
   return (
     <div className="overflow-x-auto">
       <table className="table">
-        {/* head */}
         <thead>
           <tr>
-            <th></th>
-            <th>Nombre</th>
-            <th>Cantidad</th>
-            <th>Precio</th>
-            <th>Totales</th>
+            <th>Count</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Total</th>
           </tr>
         </thead>
         <tbody>
-          {/* row 1 */}
-          <tr>
-            <th>1</th>
-            <td>Cy Ganderton</td>
-            <td>Quality Control Specialist</td>
-            <td>Blue</td>
-          </tr>
-          {/* row 2 */}
-          <tr>
-            <th>2</th>
-            <td>Hart Hagerty</td>
-            <td>Desktop Support Technician</td>
-            <td>Purple</td>
-          </tr>
-          {/* row 3 */}
-          <tr>
-            <th>3</th>
-            <td>Brice Swyre</td>
-            <td>Tax Accountant</td>
-            <td>Red</td>
-          </tr>
-          <tr>
-            <th>Total</th>
-          </tr>
+          {cartItems.map((item, index) => (
+            <tr key={index}>
+              <td>{item.quantity}</td>
+              <td>{item.title}</td>
+              <td>{item.description}</td>
+              <td>{item.price}</td>
+              <td>{item.quantity * item.price}</td>
+            </tr>
+          ))}
         </tbody>
       </table>
-      <div className="flex flex-auto justify-center gap-4">
-      <button className="btn btn-active btn-neutral">Retornar</button>
-      <button className="btn btn-warning">Borrar Lista</button>
-      <button className="btn btn-success">Ir a Pagar</button>
-      </div>
     </div>
   )
 }
+
+
 
 export default Cart

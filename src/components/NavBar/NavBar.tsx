@@ -8,7 +8,7 @@ const NavBar = () => {
         <a className="btn btn-ghost text-xl uppercase">Kuky Espacial 🐈</a>
       </div>
       <div className="flex-none">
-        <ul className="menu menu-horizontal px-1">
+        <ul className="menu menu-horizontal px-1 gap-1">
           <li>
             <NavLink to="/" >Inicio</NavLink>
           </li>
