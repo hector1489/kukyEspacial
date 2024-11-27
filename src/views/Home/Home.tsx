@@ -1,19 +1,23 @@
-import Banner from "../../components/Banner/Banner"
+
 import MainGallery from "../../components/MainGallery/MainGallery"
 import Footer from "../../components/Footer/Footer"
 import Description from "../../components/Description/Description"
+import NavBar from "../../components/NavBar/NavBar"
+import TwiterHeader from "../../components/TwiterHeader/TwiterHeader"
 
 const Home = () => {
 
 
-    return (
-        <>
-        <Banner />
-        <Description />
-        <MainGallery />
-        <Footer />
-        </>
-    )
+  return (
+    <div className="home-container">
+
+      <TwiterHeader />
+      <NavBar />
+      <Description />
+      <MainGallery />
+      <Footer />
+    </div>
+  )
 }
 
 export default Home

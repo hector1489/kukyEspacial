@@ -3,28 +3,30 @@ import { AppContext } from "../../context/GlobalState"
 import IRecord from "../../interfaces/IRecord"
 
 const MainGallery = () => {
-  const contextValue = useContext(AppContext)
+  const contextValue = useContext(AppContext);
 
   if (!contextValue) {
-    return null
+    return null;
   }
 
   const { state, setState } = contextValue;
-  const galleryData: Array<IRecord> = state.IsHero
+
+  const galleryData: Array<IRecord> = state.IsHero || [];
 
   const addToCart = (id: number) => {
     const updatedGalleryData = galleryData.map(item =>
-      item.id === id ? { ...item, quantity: item.quantity + 1 } : item
+      item.id === id ? { ...item, quantity: (item.quantity || 0) + 1 } : item
     );
+
     setState(prevState => ({
       ...prevState,
       IsHero: updatedGalleryData,
-    }))
-  }
+    }));
+  };
 
   return (
     <div className="flex flex-wrap justify-center gap-4 mt-4">
-      {galleryData.map((item, index) => (
+      {galleryData.map(item => (
         <div key={item.id} className="card w-96 bg-base-100 shadow-xl">
           <figure>
             <img src={item.urlImage} alt={item.title} className="w-full h-48 object-cover" />
@@ -42,7 +44,7 @@ const MainGallery = () => {
         </div>
       ))}
     </div>
-  )
-}
+  );
+};
 
-export default MainGallery
+export default MainGallery;
