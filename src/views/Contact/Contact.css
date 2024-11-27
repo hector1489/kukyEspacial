@@ -1,0 +1,17 @@
+.contact-view-container {
+  width: 100%;
+}
+
+.contact-form-container {
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-form-container h3 {
+  width: 50%;
+}
+

@@ -1,6 +1,7 @@
 import { useContext } from "react"
 import { AppContext } from "../../context/GlobalState"
 import IRecord from "../../interfaces/IRecord"
+import './Cart.css'
 
 const Cart = () => {
   const contextValue = useContext(AppContext);
