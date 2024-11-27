@@ -1,14 +1,21 @@
 import MainGallery from "../../components/MainGallery/MainGallery"
+import NavBar from "../../components/NavBar/NavBar"
+import './Products.css'
 
 
 const Products = () => {
 
-    return (
-        <div className="text-center">
+  return (
+    <div className="products-view-container">
+      <NavBar />
+      <div className="products-view-gallery text-center">
         <h3 className="bg-base-300">Productos <span className="text-success font-bold">:</span></h3>
         <MainGallery />
-        </div>
-    )
+      </div>
+
+    </div>
+
+  )
 }
 
 export default Products

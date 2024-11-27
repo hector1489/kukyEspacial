@@ -1,4 +1,5 @@
 import FormComponent from "../../components/FormComponent/FormComponent"
+import './Contact.css'
 
 
 const Contact = () => {

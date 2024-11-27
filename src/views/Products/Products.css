@@ -1,0 +1,17 @@
+.products-view-container {
+  width: 100%;
+}
+
+.products-view-gallery {
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.products-view-gallery h3 {
+  width: 50%;
+}
+

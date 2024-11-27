@@ -1,6 +1,9 @@
 .twiterHeader-container {
   width: 100%;
+  display: flex;
+  justify-content: center;
 }
+
 
 .twiterHeader-container img {
   width: 100%;

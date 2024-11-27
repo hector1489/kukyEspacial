@@ -1,0 +1,24 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.home-nav {
+  width: 80%;
+  padding: 20px;
+}
+
+.home-description {
+  width: 100%;
+  padding: 20px;
+}
+
+.home-mainGallery {
+  width: 100%;
+  padding: 20px;
+}
+
