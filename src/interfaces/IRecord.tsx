@@ -6,6 +6,7 @@ interface IRecord {
     link: string,
     price: number,
     quantity: number,
+    category: string
 }
 
 export default IRecord

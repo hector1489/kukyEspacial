@@ -6,7 +6,8 @@
     "description": "Description 1",
     "link": "https://example.com/link1",
     "price": 5000,
-    "quantity": 0
+    "quantity": 0,
+    "category": "bolso de mano"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "description": "Description 2",
     "link": "https://example.com/link2",
     "price": 5000,
-    "quantity": 0
+    "quantity": 0,
+     "category": "bolso de mano"
   },
   {
     "id": 3,
@@ -24,6 +26,7 @@
     "description": "Description 3",
     "link": "https://example.com/link3",
     "price": 5000,
-    "quantity": 0
+    "quantity": 0,
+     "category": "labial"
   }
 ]

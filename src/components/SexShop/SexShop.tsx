@@ -37,6 +37,7 @@ const SexShop = () => {
             <h2 className="card-title text-lg font-semibold mb-2">{item.title}</h2>
             <p className="text-sm mb-4">{item.description}</p>
             <p className="text-sm mb-4">$ {item.price}</p>
+            <p className="text-sm mb-4">{item.category}</p>
             <div className="card-actions flex justify-end">
               <button onClick={() => addToCart(item.id)} className="btn btn-primary">
                 Add to Cart
