@@ -1,6 +1,6 @@
-import { useContext } from "react"
-import { AppContext } from "../../context/GlobalState"
-import IRecord from "../../interfaces/IRecord"
+import { useContext } from "react";
+import { AppContext } from "../../context/GlobalState";
+import IRecord from "../../interfaces/IRecord";
 
 const MainGallery = () => {
   const contextValue = useContext(AppContext);
@@ -12,9 +12,10 @@ const MainGallery = () => {
   const { state, setState } = contextValue;
 
   const galleryData: Array<IRecord> = state.IsHero || [];
+  const filteredGalleryData = galleryData.filter(item => item.category !== "sexshop");
 
   const addToCart = (id: number) => {
-    const updatedGalleryData = galleryData.map(item =>
+    const updatedGalleryData = filteredGalleryData.map(item =>
       item.id === id ? { ...item, quantity: (item.quantity || 0) + 1 } : item
     );
 
@@ -26,7 +27,7 @@ const MainGallery = () => {
 
   return (
     <div className="flex flex-wrap justify-center gap-4 mt-4">
-      {galleryData.map(item => (
+      {filteredGalleryData.map(item => (
         <div key={item.id} className="card w-96 bg-base-100 shadow-xl">
           <figure>
             <img src={item.urlImage} alt={item.title} className="w-full h-48 object-cover" />
@@ -35,6 +36,7 @@ const MainGallery = () => {
             <h2 className="card-title text-lg font-semibold mb-2">{item.title}</h2>
             <p className="text-sm mb-4">{item.description}</p>
             <p className="text-sm mb-4">$ {item.price}</p>
+            <p className="text-sm mb-4">{item.category}</p>
             <div className="card-actions flex justify-end">
               <button onClick={() => addToCart(item.id)} className="btn btn-primary">
                 Add to Cart

@@ -2,7 +2,6 @@ import { useContext } from "react"
 import { AppContext } from "../../context/GlobalState"
 import IRecord from "../../interfaces/IRecord"
 
-
 const SexShop = () => {
   const contextValue = useContext(AppContext);
 
@@ -13,6 +12,7 @@ const SexShop = () => {
   const { state, setState } = contextValue;
 
   const galleryData: Array<IRecord> = state.IsHero || [];
+  const sexShopProducts = galleryData.filter(item => item.category.toLowerCase() === "sexshop");
 
   const addToCart = (id: number) => {
     const updatedGalleryData = galleryData.map(item =>
@@ -25,10 +25,9 @@ const SexShop = () => {
     }));
   };
 
-
   return (
     <div className="flex flex-wrap justify-center gap-4 mt-4">
-      {galleryData.map(item => (
+      {sexShopProducts.map(item => (
         <div key={item.id} className="card w-96 bg-base-100 shadow-xl">
           <figure>
             <img src={item.urlImage} alt={item.title} className="w-full h-48 object-cover" />
@@ -51,7 +50,5 @@ const SexShop = () => {
 }
 
 export default SexShop
-
-
 
 

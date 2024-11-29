@@ -17,7 +17,7 @@
     "link": "https://example.com/link2",
     "price": 5000,
     "quantity": 0,
-     "category": "bolso de mano"
+    "category": "bolso de mano"
   },
   {
     "id": 3,
@@ -27,6 +27,36 @@
     "link": "https://example.com/link3",
     "price": 5000,
     "quantity": 0,
-     "category": "labial"
+    "category": "labial"
+  },
+  {
+    "id": 4,
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/productsSexShop/esposas1.png",
+    "title": "Esposas Rosa",
+    "description": "Description 4",
+    "link": "https://example.com/link4",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 5,
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/productsSexShop/feromona1.png",
+    "title": "Feromona Azul",
+    "description": "Description 5",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 6,
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/productsSexShop/feromona2.png",
+    "title": "Feromona Rosa",
+    "description": "Description 6",
+    "link": "https://example.com/link6",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
   }
 ]
