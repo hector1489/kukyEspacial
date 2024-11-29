@@ -58,5 +58,45 @@
     "price": 5000,
     "quantity": 0,
     "category": "sexshop"
+  },
+  {
+    "id": 7,
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/blazerGrisML.jpeg",
+    "title": "blazer gris",
+    "description": "Description 7",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "blazers"
+  },
+  {
+    "id": 8,
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/blusaGris2.jpeg",
+    "title": "tapadito verde",
+    "description": "Description 8",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "tapaditos"
+  },
+  {
+    "id": 9,
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/blusaTransparenciaM.jpeg",
+    "title": "blusa transparente rosa",
+    "description": "Description 9",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "blusa"
+  },
+  {
+    "id": 10,
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/blusaTransparenciaStandar.jpeg",
+    "title": "blusa transparente standar",
+    "description": "Description 10",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "blusa"
   }
 ]
