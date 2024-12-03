@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/main/src/assets/img/cartera2.jpg",
+    "urlImage": "src/assets/img/cartera.jpg",
     "title": "Cartera 1",
     "description": "Description 1",
     "link": "https://example.com/link1",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/main/src/assets/img/cartera.jpg",
+    "urlImage": "src/assets/img/cartera2.jpg",
     "title": "Cartera 2",
     "description": "Description 2",
     "link": "https://example.com/link2",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/main/src/assets/img/labial1.jpg",
+    "urlImage": "src/assets/img/labial1.jpg",
     "title": "Labial 3",
     "description": "Description 3",
     "link": "https://example.com/link3",
