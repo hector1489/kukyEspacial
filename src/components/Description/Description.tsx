@@ -8,7 +8,7 @@ const Description = () => {
       <div className="flex justify-center gap-2 px-4 py-16 bg-base-200">
         <h4>Hola <span className="text-accent font-bold">!</span></h4>
         <p>
-          Soy <span className="text-secondary font-bold">Rashti</span>, el diosa del dato 🪷.
+          Soy <span className="text-secondary font-bold">Rashti 🪷</span>, la diosa del dato.
         </p>
         <p>
           Disfruta tu viaje 🌠 y llevate las mejores ofertas de nuestra comuna.

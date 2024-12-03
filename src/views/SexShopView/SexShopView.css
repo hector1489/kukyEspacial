@@ -4,12 +4,16 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 50px;
+  background: linear-gradient(217deg, #ebdef0, rgba(255, 0, 0, 0) 70.71%),
+    linear-gradient(127deg, #a569bd, rgba(0, 255, 0, 0) 70.71%),
+    linear-gradient(336deg, #6c3483, rgba(0, 0, 255, 0) 70.71%);
+  padding: 20px;
 }
 
 .sexshop-view-container h3 {
   width: 50%;
   text-align: center;
+  margin-top: 30px;
 }
 
 

@@ -1,6 +1,7 @@
 import { useContext } from "react";
 import { AppContext } from "../../context/GlobalState";
 import IRecord from "../../interfaces/IRecord";
+import './MainGallery.css'
 
 const MainGallery = () => {
   const contextValue = useContext(AppContext);
@@ -33,14 +34,23 @@ const MainGallery = () => {
             <img src={item.urlImage} alt={item.title} className="w-full h-48 object-cover" />
           </figure>
           <div className="card-body p-4">
-            <h2 className="card-title text-lg font-semibold mb-2">{item.title}</h2>
+            <h3 className="card-title text-lg font-semibold mb-2">{item.title}</h3>
             <p className="text-sm mb-4">{item.description}</p>
             <p className="text-sm mb-4">$ {item.price}</p>
             <p className="text-sm mb-4">{item.category}</p>
-            <div className="card-actions flex justify-end">
-              <button onClick={() => addToCart(item.id)} className="btn btn-primary">
-                Add to Cart
-              </button>
+            <div className="card-actions">
+              <h4>Consultar Stock : </h4>
+              <div className="contact-view-buttons">
+                <a href="" target="_blank" rel="noopener noreferrer">
+                  <i className="fa-brands fa-square-facebook"></i>
+                </a>
+                <a href="https://www.instagram.com/rashtistore/profilecard/" target="_blank" rel="noopener noreferrer">
+                  <i className="fa-brands fa-instagram"></i>
+                </a>
+                <a href="https://wa.me/54270328" target="_blank" rel="noopener noreferrer">
+                  <i className="fa-brands fa-whatsapp"></i>
+                </a>
+              </div>
             </div>
           </div>
         </div>

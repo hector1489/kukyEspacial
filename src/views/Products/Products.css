@@ -1,19 +1,21 @@
 .products-view-container {
   width: 100%;
-  height: auto;
-
+  background: linear-gradient(217deg, #ebdef0, rgba(255, 0, 0, 0) 70.71%),
+    linear-gradient(127deg, #a569bd, rgba(0, 255, 0, 0) 70.71%),
+    linear-gradient(336deg, #6c3483, rgba(0, 0, 255, 0) 70.71%);
 }
 
 .products-view-gallery {
   width: 100%;
-  margin-top: 50px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 20px;
 }
 
 .products-view-gallery h3 {
   width: 50%;
+  margin-top: 30px;
 }
 

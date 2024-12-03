@@ -37,10 +37,19 @@ const SexShop = () => {
             <p className="text-sm mb-4">{item.description}</p>
             <p className="text-sm mb-4">$ {item.price}</p>
             <p className="text-sm mb-4">{item.category}</p>
-            <div className="card-actions flex justify-end">
-              <button onClick={() => addToCart(item.id)} className="btn btn-primary">
-                Add to Cart
-              </button>
+            <div className="card-actions">
+              <h4>Consultar Stock : </h4>
+              <div className="contact-view-buttons">
+                <a href="" target="_blank" rel="noopener noreferrer">
+                  <i className="fa-brands fa-square-facebook"></i>
+                </a>
+                <a href="https://www.instagram.com/rashtistore/profilecard/" target="_blank" rel="noopener noreferrer">
+                  <i className="fa-brands fa-instagram"></i>
+                </a>
+                <a href="https://wa.me/54270328" target="_blank" rel="noopener noreferrer">
+                  <i className="fa-brands fa-whatsapp"></i>
+                </a>
+              </div>
             </div>
           </div>
         </div>
