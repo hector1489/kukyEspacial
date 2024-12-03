@@ -22,9 +22,6 @@ const NavBar = () => {
           <li>
             <NavLink to="contact">Contacto</NavLink>
           </li>
-          <li>
-            <NavLink to="Cart">🛒</NavLink>
-          </li>
         </ul>
       </div>
     </div>
