@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/productsSexShop/esposas1.png",
+    "urlImage": "src/assets/productsSexShop/esposas1.png",
     "title": "Esposas Rosa",
     "description": "Description 4",
     "link": "https://example.com/link4",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/productsSexShop/feromona1.png",
+    "urlImage": "src/assets/productsSexShop/feromona1.png",
     "title": "Feromona Azul",
     "description": "Description 5",
     "link": "https://example.com/link5",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/productsSexShop/feromona2.png",
+    "urlImage": "src/assets/productsSexShop/feromona2.png",
     "title": "Feromona Rosa",
     "description": "Description 6",
     "link": "https://example.com/link6",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/blazerGrisML.jpeg",
+    "urlImage": "src/assets/img/products/blazerGrisML.jpeg",
     "title": "blazer gris",
     "description": "Description 7",
     "link": "https://example.com/link",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/blusaGris2.jpeg",
+    "urlImage": "src/assets/img/products/blusaGris2.jpeg",
     "title": "tapadito verde",
     "description": "Description 8",
     "link": "https://example.com/link",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/blusaTransparenciaM.jpeg",
+    "urlImage": "src/assets/img/products/blusaTransparenciaM.jpeg",
     "title": "blusa transparente rosa",
     "description": "Description 9",
     "link": "https://example.com/link",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/blusaTransparenciaStandar.jpeg",
+    "urlImage": "src/assets/img/products/blusaTransparenciaStandar.jpeg",
     "title": "blusa transparente standar",
     "description": "Description 10",
     "link": "https://example.com/link",
