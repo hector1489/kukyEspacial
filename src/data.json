@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "urlImage": "src/assets/img/cartera.jpg",
-    "title": "Cartera 1",
+    "urlImage": "src/assets/img/products/bodyBlancoStandar.jpeg",
+    "title": "Body Blanco 1",
     "description": "Description 1",
     "link": "https://example.com/link1",
     "price": 5000,
     "quantity": 0,
-    "category": "bolso de mano"
+    "category": "sexshop"
   },
   {
     "id": 2,
-    "urlImage": "src/assets/img/cartera2.jpg",
-    "title": "Cartera 2",
+    "urlImage": "src/assets/img/products/bodyReductorColombiano.jpeg",
+    "title": "Body Reductor Colombiano 2",
     "description": "Description 2",
     "link": "https://example.com/link2",
     "price": 5000,
     "quantity": 0,
-    "category": "bolso de mano"
+    "category": "body"
   },
   {
     "id": 3,
-    "urlImage": "src/assets/img/labial1.jpg",
-    "title": "Labial 3",
+    "urlImage": "src/assets/img/products/burnNude.jpeg",
+    "title": "Labial Burn",
     "description": "Description 3",
     "link": "https://example.com/link3",
     "price": 5000,
