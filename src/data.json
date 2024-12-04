@@ -2,7 +2,7 @@
   {
     "id": 1,
     "urlImage": "src/assets/img/products/bodyBlancoStandar.jpeg",
-    "title": "Body Blanco 1",
+    "title": "Body Blanco",
     "description": "Description 1",
     "link": "https://example.com/link1",
     "price": 5000,
@@ -31,72 +31,363 @@
   },
   {
     "id": 4,
-    "urlImage": "src/assets/productsSexShop/esposas1.png",
-    "title": "Esposas Rosa",
-    "description": "Description 4",
-    "link": "https://example.com/link4",
-    "price": 5000,
-    "quantity": 0,
-    "category": "sexshop"
-  },
-  {
-    "id": 5,
-    "urlImage": "src/assets/productsSexShop/feromona1.png",
-    "title": "Feromona Azul",
-    "description": "Description 5",
-    "link": "https://example.com/link5",
-    "price": 5000,
-    "quantity": 0,
-    "category": "sexshop"
-  },
-  {
-    "id": 6,
-    "urlImage": "src/assets/productsSexShop/feromona2.png",
-    "title": "Feromona Rosa",
-    "description": "Description 6",
-    "link": "https://example.com/link6",
-    "price": 5000,
-    "quantity": 0,
-    "category": "sexshop"
-  },
-  {
-    "id": 7,
     "urlImage": "src/assets/img/products/blazerGrisML.jpeg",
     "title": "blazer gris",
-    "description": "Description 7",
+    "description": "Description 4",
     "link": "https://example.com/link",
     "price": 5000,
     "quantity": 0,
     "category": "blazers"
   },
   {
-    "id": 8,
+    "id": 5,
     "urlImage": "src/assets/img/products/blusaGris2.jpeg",
     "title": "tapadito verde",
-    "description": "Description 8",
+    "description": "Description 5",
     "link": "https://example.com/link",
     "price": 5000,
     "quantity": 0,
     "category": "tapaditos"
   },
   {
-    "id": 9,
+    "id": 6,
     "urlImage": "src/assets/img/products/blusaTransparenciaM.jpeg",
     "title": "blusa transparente rosa",
-    "description": "Description 9",
+    "description": "Description 6",
     "link": "https://example.com/link",
     "price": 5000,
     "quantity": 0,
     "category": "blusa"
   },
   {
-    "id": 10,
+    "id": 7,
     "urlImage": "src/assets/img/products/blusaTransparenciaStandar.jpeg",
     "title": "blusa transparente standar",
-    "description": "Description 10",
+    "description": "Description 7",
     "link": "https://example.com/link",
     "price": 5000,
     "quantity": 0,
     "category": "blusa"
+  },
+  {
+    "id": 8,
+    "urlImage": "src/assets/img/products/chaquetaMezclillaLLX.jpeg",
+    "title": "Chaqueta Mezclilla LX/L",
+    "description": "Description 8",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "chaqueta"
+  },
+  {
+    "id": 9,
+    "urlImage": "src/assets/img/products/coralPetale.jpeg",
+    "title": "Labial Coral Petale",
+    "description": "Description 9",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 10,
+    "urlImage": "src/assets/img/products/dancingNigth.jpeg",
+    "title": "Perfume Dancing Nigth",
+    "description": "Description 10",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "perfume"
+  },
+  {
+    "id": 11,
+    "urlImage": "src/assets/img/products/fajaLG.jpeg",
+    "title": "Faja talla LX",
+    "description": "Description 11",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "faja"
+  },
+  {
+    "id": 12,
+    "urlImage": "src/assets/img/products/fucsiaPink.jpeg",
+    "title": "Labial Fucsia Pink",
+    "description": "Description 12",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 13,
+    "urlImage": "src/assets/img/products/leclatLebel.jpeg",
+    "title": "Perfume Leclat Lebel",
+    "description": "Description 13",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "perfume"
+  },
+  {
+    "id": 14,
+    "urlImage": "src/assets/img/products/liasson.jpeg",
+    "title": "Perfume Liasson",
+    "description": "Description 14",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "perfume"
+  },
+  {
+    "id": 15,
+    "urlImage": "src/assets/img/products/mateFucsiaExpress.jpeg",
+    "title": "Labial Mate Fucsia",
+    "description": "Description 15",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 16,
+    "urlImage": "src/assets/img/products/peachKiss.jpeg",
+    "title": "Labial Peach Kiss",
+    "description": "Description 16",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+
+  {
+    "id": 17,
+    "urlImage": "src/assets/img/products/petalRose.jpeg",
+    "title": "Labial Petal Rose",
+    "description": "Description 17",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 18,
+    "urlImage": "src/assets/img/products/pinkHearth.jpeg",
+    "title": "Labial Pink Heart",
+    "description": "Description 18",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 19,
+    "urlImage": "src/assets/img/products/pinkNudeMate.jpeg",
+    "title": "Labial Pink Nude",
+    "description": "Description 19",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 20,
+    "urlImage": "src/assets/img/products/reveSuenselle.jpeg",
+    "title": "Perfume Reve Suenselle",
+    "description": "Description 20",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "perfume"
+  },
+  {
+    "id": 21,
+    "urlImage": "src/assets/img/products/rojoFestejo.jpeg",
+    "title": "Labial Rojo Festejo",
+    "description": "Description 21",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 22,
+    "urlImage": "src/assets/img/products/roseCupid.jpeg",
+    "title": "Labial Cupid",
+    "description": "Description 22",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 23,
+    "urlImage": "src/assets/img/products/roseIbiza.jpeg",
+    "title": "Labial Rose Ibiza",
+    "description": "Description 23",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 24,
+    "urlImage": "src/assets/img/products/royalRed.jpeg",
+    "title": "Labial Royal Red",
+    "description": "Description 24",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 25,
+    "urlImage": "src/assets/img/products/sudaderaCapuchaNiña.jpeg",
+    "title": "Sudadera de niña",
+    "description": "Description 25",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sudadera"
+  },
+  {
+    "id": 26,
+    "urlImage": "src/assets/img/products/tapaditoStandar2.jpeg",
+    "title": "Tapadito Standar",
+    "description": "Description 26",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "tapadito"
+  },
+  {
+    "id": 27,
+    "urlImage": "src/assets/img/products/tapaditoStandar3.jpeg",
+    "title": "Tapadito Stanadar 2",
+    "description": "Description 27",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "tapadito"
+  },
+  {
+    "id": 28,
+    "urlImage": "src/assets/img/products/ultimateRed.jpeg",
+    "title": "Labial Ultimate Red",
+    "description": "Description 28",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "labial"
+  },
+  {
+    "id": 29,
+    "urlImage": "src/assets/img/products/vestidoSmVerde.jpeg",
+    "title": "Vestido Verde talla S/M",
+    "description": "Description 29",
+    "link": "https://example.com/link",
+    "price": 5000,
+    "quantity": 0,
+    "category": "vestido"
+  },
+  {
+    "id": 30,
+    "urlImage": "src/assets/productsSexShop/cartas.png",
+    "title": "Cartas",
+    "description": "Description 30",
+    "link": "https://example.com/link4",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 31,
+    "urlImage": "src/assets/productsSexShop/condonFluor.png",
+    "title": "Condon Fluor",
+    "description": "Description 31",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 32,
+    "urlImage": "src/assets/productsSexShop/condonSabores.png",
+    "title": "Condon Sabores SensorPlus",
+    "description": "Description 32",
+    "link": "https://example.com/link6",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 33,
+    "urlImage": "src/assets/productsSexShop/condonSabores2.png",
+    "title": "Condon Sabores Prudence",
+    "description": "Description 33",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 34,
+    "urlImage": "src/assets/productsSexShop/condonSensibleLinea.png",
+    "title": "Condon Sensible Robbed",
+    "description": "Description 34",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 35,
+    "urlImage": "src/assets/productsSexShop/condonSensiblePuntos.png",
+    "title": "Condon Sensible Dotted",
+    "description": "Description 35",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 36,
+    "urlImage": "src/assets/productsSexShop/dadosFluor.png",
+    "title": "Dados Fluor",
+    "description": "Description 36",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 37,
+    "urlImage": "src/assets/productsSexShop/enema.png",
+    "title": "Enema",
+    "description": "Description 37",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 38,
+    "urlImage": "src/assets/productsSexShop/gelBeijavel.png",
+    "title": "Gel Beijavel Whisky",
+    "description": "Description 38",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 39,
+    "urlImage": "src/assets/productsSexShop/gelGroselha.png",
+    "title": "Gel Beijavel Groselha",
+    "description": "Description 39",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
   }
 ]
