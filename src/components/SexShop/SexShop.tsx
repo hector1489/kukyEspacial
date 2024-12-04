@@ -9,12 +9,12 @@ const SexShop = () => {
     return null;
   }
 
-  const { state, setState } = contextValue;
+  const { state } = contextValue;
 
   const galleryData: Array<IRecord> = state.IsHero || [];
   const sexShopProducts = galleryData.filter(item => item.category.toLowerCase() === "sexshop");
 
-  const addToCart = (id: number) => {
+  /*const addToCart = (id: number) => {
     const updatedGalleryData = galleryData.map(item =>
       item.id === id ? { ...item, quantity: (item.quantity || 0) + 1 } : item
     );
@@ -23,14 +23,14 @@ const SexShop = () => {
       ...prevState,
       IsHero: updatedGalleryData,
     }));
-  };
+  };*/
 
   return (
     <div className="flex flex-wrap justify-center gap-4 mt-4">
       {sexShopProducts.map(item => (
         <div key={item.id} className="card w-96 bg-base-100 shadow-xl">
           <figure>
-            <img src={item.urlImage} alt={item.title} className="w-full h-48 object-cover" />
+            <img src={item.urlImage} alt={item.title} />
           </figure>
           <div className="card-body">
             <h2 className="card-title">{item.title}</h2>
