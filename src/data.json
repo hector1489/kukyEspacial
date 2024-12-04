@@ -159,7 +159,6 @@
     "quantity": 0,
     "category": "labial"
   },
-
   {
     "id": 17,
     "urlImage": "src/assets/img/products/petalRose.jpeg",
@@ -385,6 +384,126 @@
     "urlImage": "src/assets/productsSexShop/gelGroselha.png",
     "title": "Gel Beijavel Groselha",
     "description": "Description 39",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 40,
+    "urlImage": "src/assets/productsSexShop/homonasHombre.png",
+    "title": "Hormonas ENAMOR MAN",
+    "description": "Description 40",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 41,
+    "urlImage": "src/assets/productsSexShop/hormonasMujer.png",
+    "title": "Hormonas ENAMOR WOMEN",
+    "description": "Description 41",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 42,
+    "urlImage": "src/assets/productsSexShop/lubrianteAnalUnisex.png",
+    "title": "Lubricante StarSex",
+    "description": "Description 42",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 43,
+    "urlImage": "src/assets/productsSexShop/lubricanteAnalForte.png",
+    "title": "Lubricante StarSex Forte",
+    "description": "Description 43",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 44,
+    "urlImage": "src/assets/productsSexShop/lubricanteCalor.png",
+    "title": "Lubricante HOT",
+    "description": "Description 44",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 45,
+    "urlImage": "src/assets/productsSexShop/lubricanteChocolanteCaliente.png",
+    "title": "Lubricante Chocolate Caliente",
+    "description": "Description 45",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 46,
+    "urlImage": "src/assets/productsSexShop/lubricanteChocolate.png",
+    "title": "Lubricante Chocolate Lub",
+    "description": "Description 46",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 47,
+    "urlImage": "src/assets/productsSexShop/lubricanteFem.png",
+    "title": "Lubricante FEM",
+    "description": "Description 47",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 48,
+    "urlImage": "src/assets/productsSexShop/lubricanteFrio.png",
+    "title": "Lubricante ICE",
+    "description": "Description 48",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 49,
+    "urlImage": "src/assets/productsSexShop/lubricanteFrtilub.png",
+    "title": "Lubricante Frutilub",
+    "description": "Description 49",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 50,
+    "urlImage": "src/assets/productsSexShop/lubricanteMasculino.png",
+    "title": "Lubricante MAN",
+    "description": "Description 50",
+    "link": "https://example.com/link5",
+    "price": 5000,
+    "quantity": 0,
+    "category": "sexshop"
+  },
+  {
+    "id": 51,
+    "urlImage": "src/assets/productsSexShop/spryGargante.png",
+    "title": "Spry Intt",
+    "description": "Description 51",
     "link": "https://example.com/link5",
     "price": 5000,
     "quantity": 0,
