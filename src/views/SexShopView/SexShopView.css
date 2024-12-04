@@ -4,9 +4,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(217deg, #6c3483, rgba(255, 0, 0, 0) 70.71%),
-    linear-gradient(127deg, #d90b5f, rgba(0, 255, 0, 0) 70.71%),
-    linear-gradient(336deg, #d90b5f , rgba(0, 0, 255, 0) 70.71%);
+  background: linear-gradient(217deg, #d31644, rgba(255, 0, 0, 0) 70.71%),
+    linear-gradient(127deg, #fcb7c8, rgba(0, 255, 0, 0) 70.71%),
+    linear-gradient(336deg, #6c3483, rgba(0, 0, 255, 0) 70.71%);
   padding: 20px;
 }
 

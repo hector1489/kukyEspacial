@@ -12,7 +12,7 @@ const Contact = () => {
         <FormComponent />
       </div>
       <div className="contact-view-buttons">
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/people/rashtistore/61569902727603/?rdid=H0OoVXKosw9i9wfQ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F186uE631Hj%2F" target="_blank" rel="noopener noreferrer">
           <i className="fa-brands fa-square-facebook"></i>
         </a>
         <a href="https://www.instagram.com/rashtistore/profilecard/" target="_blank" rel="noopener noreferrer">
