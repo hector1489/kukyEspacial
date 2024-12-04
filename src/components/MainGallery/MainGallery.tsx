@@ -31,13 +31,13 @@ const MainGallery = () => {
       {filteredGalleryData.map(item => (
         <div key={item.id} className="card w-96 bg-base-100 shadow-xl">
           <figure>
-            <img src={item.urlImage} alt={item.title} className="w-full h-48 object-cover" />
+            <img src={item.urlImage} alt={item.title} />
           </figure>
-          <div className="card-body p-4">
-            <h3 className="card-title text-lg font-semibold mb-2">{item.title}</h3>
-            <p className="text-sm mb-4">{item.description}</p>
-            <p className="text-sm mb-4">$ {item.price}</p>
-            <p className="text-sm mb-4">{item.category}</p>
+          <div className="card-body">
+            <h3 className="card-title">{item.title}</h3>
+            <p>{item.description}</p>
+            <p>$ {item.price}</p>
+            <p>{item.category}</p>
             <div className="card-actions">
               <h4>Consultar Stock : </h4>
               <div className="contact-view-buttons">

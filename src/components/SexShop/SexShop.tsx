@@ -32,11 +32,11 @@ const SexShop = () => {
           <figure>
             <img src={item.urlImage} alt={item.title} className="w-full h-48 object-cover" />
           </figure>
-          <div className="card-body p-4">
-            <h2 className="card-title text-lg font-semibold mb-2">{item.title}</h2>
-            <p className="text-sm mb-4">{item.description}</p>
-            <p className="text-sm mb-4">$ {item.price}</p>
-            <p className="text-sm mb-4">{item.category}</p>
+          <div className="card-body">
+            <h2 className="card-title">{item.title}</h2>
+            <p >{item.description}</p>
+            <p >$ {item.price}</p>
+            <p >{item.category}</p>
             <div className="card-actions">
               <h4>Consultar Stock : </h4>
               <div className="contact-view-buttons">

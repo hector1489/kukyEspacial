@@ -1,4 +1,4 @@
-
+import './Description.css'
 
 const Description = () => {
 
@@ -11,7 +11,7 @@ const Description = () => {
           Soy <span className="text-secondary font-bold">Rashti 🪷</span>, la diosa del dato.
         </p>
         <p>
-          Disfruta tu viaje 🌠 y llevate las mejores ofertas de nuestra comuna.
+          Disfruta tu viaje y llevate las mejores ofertas de nuestra comuna 🌠 .
         </p>
       </div>
     </div>

@@ -1,0 +1,86 @@
+.card {
+  width: 100%;
+  max-width: 350px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card figure {
+  margin: 0;
+  position: relative;
+  height: 200px;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px 12px 0 0;
+}
+
+.card-body {
+  padding: 16px;
+  text-align: left;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 8px;
+}
+
+.card-body p {
+  font-size: 0.875rem;
+  color: #555555;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+.card-body p.price {
+  font-weight: bold;
+  color: #007BFF;
+  margin-top: 8px;
+}
+
+.card-body p.category {
+  font-size: 0.75rem;
+  color: #777777;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.card-actions {
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-actions h4 {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333333;
+  margin-bottom: 0;
+}
+
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+
+.card-body p,
+.card-body h4 {
+  margin-bottom: 0;
+}
