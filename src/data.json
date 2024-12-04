@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/bodyBlancoStandar.jpeg?token=GHSAT0AAAAAACM4U3NXXF33RDVTOKEBKEHGZ2QYBMA",
+    "urlImage": "src/assets/img/products/bodyBlancoStandar.jpeg",
     "title": "Body Blanco",
     "description": "Description 1",
     "link": "https://example.com/link1",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/bodyReductorColombiano.jpeg?token=GHSAT0AAAAAACM4U3NXQKU2JGVLFDASLTPWZ2QYCEA",
+    "urlImage": "../../assets/img/products/bodyReductorColombiano.jpeg",
     "title": "Body Reductor Colombiano",
     "description": "Description 2",
     "link": "https://example.com/link2",
