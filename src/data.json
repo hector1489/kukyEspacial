@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "urlImage": "src/assets/img/products/bodyBlancoStandar.jpeg",
+    "urlImage": "../src/assets/img/products/bodyBlancoStandar.jpeg",
     "title": "Body Blanco",
     "description": "Description 1",
     "link": "https://example.com/link1",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "urlImage": "../../assets/img/products/bodyReductorColombiano.jpeg",
+    "urlImage": "../assets/img/products/bodyReductorColombiano.jpeg",
     "title": "Body Reductor Colombiano",
     "description": "Description 2",
     "link": "https://example.com/link2",
