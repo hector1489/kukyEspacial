@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/public/products/bodyBlancoStandar.jpeg?token=GHSAT0AAAAAACM4U3NX352JDZHQCAJDAAUCZ2YQUKQ",
+    "urlImage": "public/products/bodyBlancoStandar.jpeg",
     "title": "Body Blanco",
     "description": "Description 1",
     "link": "https://example.com/link1",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "urlImage": "phttps://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/public/products/bodyReductorColombiano.jpeg?token=GHSAT0AAAAAACM4U3NXOGD3J36OYYVOTGBWZ2YQXLA",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/public/products/bodyReductorColombiano.jpeg?token=GHSAT0AAAAAACM4U3NWFNX2KDCRDYCMJU3KZ2YUNZQ",
     "title": "Body Reductor Colombiano 2",
     "description": "Description 2",
     "link": "https://example.com/link2",
