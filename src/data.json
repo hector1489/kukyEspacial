@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "urlImage": "../public/products/bodyReductorColombiano.jpeg",
+    "urlImage": "../../public/products/bodyReductorColombiano.jpeg",
     "title": "Body Reductor Colombiano 2",
     "description": "Description 2",
     "link": "https://example.com/link2",
