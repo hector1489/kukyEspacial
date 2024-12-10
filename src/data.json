@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "urlImage": "src/assets/img/products/bodyBlancoStandar.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/bodyBlancoStandar.jpeg?token=GHSAT0AAAAAACM4U3NXR46VVQ45STOMH6K4Z2YITNA",
     "title": "Body Blanco",
     "description": "Description 1",
     "link": "https://example.com/link1",
@@ -291,7 +291,7 @@
   },
   {
     "id": 30,
-    "urlImage": "src/assets/productsSexShop/cartas.png",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/productsSexShop/cartas.png?token=GHSAT0AAAAAACM4U3NXWR5KBZHXBFSGWNM6Z2YISSQ",
     "title": "Cartas",
     "description": "Juego de 50 cartas con posiciones sexuales. 3 tarjetas de reglas y 1 comodin",
     "link": "https://example.com/link4",
