@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/bodyBlancoStandar.jpeg",
+    "urlImage": "public/products/bodyBlancoStandar.jpeg",
     "title": "Body Blanco",
     "description": "Description 1",
     "link": "https://example.com/link1",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "urlImage": "../../public/products/bodyReductorColombiano.jpeg",
+    "urlImage": "public/products/bodyReductorColombiano.jpeg",
     "title": "Body Reductor Colombiano 2",
     "description": "Description 2",
     "link": "https://example.com/link2",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "urlImage": "./public/products/burnNude.jpeg",
+    "urlImage": "public/products/burnNude.jpeg",
     "title": "Labial Burn",
     "description": "Description 3",
     "link": "https://example.com/link3",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/public/products/blazerGrisML.jpeg?token=GHSAT0AAAAAACM4U3NXQJRN5JMDHTXQF5NGZ2YPF5A",
+    "urlImage": "public/products/blazerGrisML.jpeg",
     "title": "blazer gris",
     "description": "Description 4",
     "link": "https://example.com/link",
@@ -291,7 +291,7 @@
   },
   {
     "id": 30,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/productsSexShop/cartas.png?token=GHSAT0AAAAAACM4U3NWDEJDEGUQSJQPX6RSZ2YP5WQ",
+    "urlImage": "./src/assets/productsSexShop/cartas.png",
     "title": "Cartas",
     "description": "Juego de 50 cartas con posiciones sexuales. 3 tarjetas de reglas y 1 comodin",
     "link": "https://example.com/link4",
