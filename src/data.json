@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "urlImage": "../src/assets/img/products/bodyBlancoStandar.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/kukyEspacial/refs/heads/main/src/assets/img/products/bodyBlancoStandar.jpeg",
     "title": "Body Blanco",
     "description": "Description 1",
     "link": "https://example.com/link1",
