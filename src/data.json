@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "urlImage": "../src/assets/img/products/bodyReductorColombiano.jpeg",
+    "urlImage": "src/assets/img/products/bodyReductorColombiano.jpeg",
     "title": "Body Reductor Colombiano 2",
     "description": "Description 2",
     "link": "https://example.com/link2",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "urlImage": "../../assets/img/products/burnNude.jpeg",
+    "urlImage": "./src/assets/img/products/burnNude.jpeg",
     "title": "Labial Burn",
     "description": "Description 3",
     "link": "https://example.com/link3",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "urlImage": "../assets/img/products/blazerGrisML.jpeg",
+    "urlImage": "./assets/img/products/blazerGrisML.jpeg",
     "title": "blazer gris",
     "description": "Description 4",
     "link": "https://example.com/link",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "urlImage": "src/assets/img/products/blusaGris2.jpeg",
+    "urlImage": "../assets/img/products/blusaGris2.jpeg",
     "title": "tapadito verde",
     "description": "Description 5",
     "link": "https://example.com/link",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "urlImage": "src/assets/img/products/blusaTransparenciaM.jpeg",
+    "urlImage": "../../assets/img/products/blusaTransparenciaM.jpeg",
     "title": "blusa transparente rosa",
     "description": "Description 6",
     "link": "https://example.com/link",
