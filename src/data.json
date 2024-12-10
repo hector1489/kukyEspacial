@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "urlImage": "public/products/bodyBlancoStandar.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/bodyBlancoStandar.jpeg",
     "title": "Body Blanco",
     "description": "Description 1",
     "link": "https://example.com/link1",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/public/products/bodyReductorColombiano.jpeg?token=GHSAT0AAAAAACM4U3NWFNX2KDCRDYCMJU3KZ2YUNZQ",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/bodyReductorColombiano.jpeg",
     "title": "Body Reductor Colombiano 2",
     "description": "Description 2",
     "link": "https://example.com/link2",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/public/products/burnNude.jpeg?token=GHSAT0AAAAAACM4U3NX5T5MTF2Q6XGC5AJAZ2YUTVA",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/burnNude.jpeg",
     "title": "Labial Burn",
     "description": "Description 3",
     "link": "https://example.com/link3",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "urlImage": "public/products/blazerGrisML.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/blazerGrisML.jpeg",
     "title": "blazer gris",
     "description": "Description 4",
     "link": "https://example.com/link",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "urlImage": "public/products/blusaGris2.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/blusaGris2.jpeg",
     "title": "tapadito verde",
     "description": "Description 5",
     "link": "https://example.com/link",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "urlImage": "public/products/blusaTransparenciaM.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/blusaTransparenciaM.jpeg",
     "title": "blusa transparente rosa",
     "description": "Description 6",
     "link": "https://example.com/link",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "urlImage": "public/products/blusaTransparenciaStandar.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/blusaTransparenciaStandar.jpeg",
     "title": "blusa transparente standar",
     "description": "Description 7",
     "link": "https://example.com/link",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "urlImage": "public/products/chaquetaMezclillaLLX.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/chaquetaMezclillaLLX.jpeg",
     "title": "Chaqueta Mezclilla LX/L",
     "description": "Description 8",
     "link": "https://example.com/link",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "urlImage": "public/products/coralPetale.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/coralPetale.jpeg",
     "title": "Labial Coral Petale",
     "description": "Description 9",
     "link": "https://example.com/link",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "urlImage": "public/products/dancingNigth.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/dancingNigth.jpeg",
     "title": "Perfume Dancing Nigth",
     "description": "Description 10",
     "link": "https://example.com/link",
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "urlImage": "public/products/fajaLG.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/fajaLG.jpeg",
     "title": "Faja talla LX",
     "description": "Description 11",
     "link": "https://example.com/link",
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "urlImage": "public/products/fucsiaPink.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/fucsiaPink.jpeg",
     "title": "Labial Fucsia Pink",
     "description": "Description 12",
     "link": "https://example.com/link",
@@ -121,7 +121,7 @@
   },
   {
     "id": 13,
-    "urlImage": "public/products/leclatLebel.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/leclatLebel.jpeg",
     "title": "Perfume Leclat Lebel",
     "description": "Description 13",
     "link": "https://example.com/link",
@@ -131,7 +131,7 @@
   },
   {
     "id": 14,
-    "urlImage": "public/products/liasson.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/liasson.jpeg",
     "title": "Perfume Liasson",
     "description": "Description 14",
     "link": "https://example.com/link",
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "urlImage": "public/products/mateFucsiaExpress.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/mateFucsiaExpress.jpeg",
     "title": "Labial Mate Fucsia",
     "description": "Description 15",
     "link": "https://example.com/link",
@@ -151,7 +151,7 @@
   },
   {
     "id": 16,
-    "urlImage": "public/products/peachKiss.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/peachKiss.jpeg",
     "title": "Labial Peach Kiss",
     "description": "Description 16",
     "link": "https://example.com/link",
@@ -161,7 +161,7 @@
   },
   {
     "id": 17,
-    "urlImage": "public/products/petalRose.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/petalRose.jpeg",
     "title": "Labial Petal Rose",
     "description": "Description 17",
     "link": "https://example.com/link",
@@ -171,7 +171,7 @@
   },
   {
     "id": 18,
-    "urlImage": "public/products/pinkHearth.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/pinkHearth.jpeg",
     "title": "Labial Pink Heart",
     "description": "Description 18",
     "link": "https://example.com/link",
@@ -181,7 +181,7 @@
   },
   {
     "id": 19,
-    "urlImage": "public/products/pinkNudeMate.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/pinkNudeMate.jpeg",
     "title": "Labial Pink Nude",
     "description": "Description 19",
     "link": "https://example.com/link",
@@ -191,7 +191,7 @@
   },
   {
     "id": 20,
-    "urlImage": "public/products/reveSuenselle.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/reveSuenselle.jpeg",
     "title": "Perfume Reve Suenselle",
     "description": "Description 20",
     "link": "https://example.com/link",
@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "urlImage": "public/products/rojoFestejo.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/rojoFestejo.jpeg",
     "title": "Labial Rojo Festejo",
     "description": "Description 21",
     "link": "https://example.com/link",
@@ -211,7 +211,7 @@
   },
   {
     "id": 22,
-    "urlImage": "public/products/roseCupid.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/roseCupid.jpeg",
     "title": "Labial Cupid",
     "description": "Description 22",
     "link": "https://example.com/link",
@@ -221,7 +221,7 @@
   },
   {
     "id": 23,
-    "urlImage": "public/products/roseIbiza.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/roseIbiza.jpeg",
     "title": "Labial Rose Ibiza",
     "description": "Description 23",
     "link": "https://example.com/link",
@@ -231,7 +231,7 @@
   },
   {
     "id": 24,
-    "urlImage": "public/products/royalRed.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/royalRed.jpeg",
     "title": "Labial Royal Red",
     "description": "Description 24",
     "link": "https://example.com/link",
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "urlImage": "public/products/sudaderaCapuchaNiña.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/sudaderaCapuchaNi%C3%B1a.jpeg",
     "title": "Sudadera de niña",
     "description": "Description 25",
     "link": "https://example.com/link",
@@ -251,7 +251,7 @@
   },
   {
     "id": 26,
-    "urlImage": "public/products/tapaditoStandar2.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/tapaditoStandar2.jpeg",
     "title": "Tapadito Standar",
     "description": "Description 26",
     "link": "https://example.com/link",
@@ -261,7 +261,7 @@
   },
   {
     "id": 27,
-    "urlImage": "public/products/tapaditoStandar3.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/tapaditoStandar3.jpeg",
     "title": "Tapadito Stanadar 2",
     "description": "Description 27",
     "link": "https://example.com/link",
@@ -271,7 +271,7 @@
   },
   {
     "id": 28,
-    "urlImage": "public/products/ultimateRed.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/ultimateRed.jpeg",
     "title": "Labial Ultimate Red",
     "description": "Description 28",
     "link": "https://example.com/link",
@@ -281,7 +281,7 @@
   },
   {
     "id": 29,
-    "urlImage": "public/products/vestidoSmVerde.jpeg",
+    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/vestidoSmVerde.jpeg",
     "title": "Vestido Verde talla S/M",
     "description": "Description 29",
     "link": "https://example.com/link",
