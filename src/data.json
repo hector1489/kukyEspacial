@@ -12,10 +12,10 @@
   {
     "id": 2,
     "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/bodyReductorColombiano.jpeg",
-    "title": "Body Reductor Colombiano 2",
-    "description": "Description 2",
+    "title": "Body Reductor Colombiano",
+    "description": "Body Reductor Ultra Colombiano",
     "link": "https://example.com/link2",
-    "price": 5000,
+    "price": 30000,
     "quantity": 0,
     "category": "body"
   },
@@ -32,10 +32,10 @@
   {
     "id": 4,
     "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/blazerGrisML.jpeg",
-    "title": "blazer gris",
-    "description": "Description 4",
+    "title": "Blazer Gris",
+    "description": "blazer gris en talla M/L",
     "link": "https://example.com/link",
-    "price": 5000,
+    "price": 4000,
     "quantity": 0,
     "category": "blazers"
   },
@@ -72,8 +72,8 @@
   {
     "id": 8,
     "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/chaquetaMezclillaLLX.jpeg",
-    "title": "Chaqueta Mezclilla LX/L",
-    "description": "Description 8",
+    "title": "Chaqueta Mezclilla",
+    "description": "Chaqueta de mezclilla en talla LX/L",
     "link": "https://example.com/link",
     "price": 5000,
     "quantity": 0,
@@ -102,10 +102,10 @@
   {
     "id": 11,
     "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/fajaLG.jpeg",
-    "title": "Faja talla LX",
-    "description": "Description 11",
+    "title": "Faja",
+    "description": "Faja talla L/G",
     "link": "https://example.com/link",
-    "price": 5000,
+    "price": 40000,
     "quantity": 0,
     "category": "faja"
   },
