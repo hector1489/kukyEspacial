@@ -100,16 +100,6 @@
     "category": "perfume"
   },
   {
-    "id": 11,
-    "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/fajaLG.jpeg",
-    "title": "Faja",
-    "description": "Faja talla L/G",
-    "link": "https://example.com/link",
-    "price": 40000,
-    "quantity": 0,
-    "category": "faja"
-  },
-  {
     "id": 12,
     "urlImage": "https://raw.githubusercontent.com/hector1489/ratishStore/refs/heads/main/src/assets/products/fucsiaPink.jpeg",
     "title": "Labial Fucsia Pink",
